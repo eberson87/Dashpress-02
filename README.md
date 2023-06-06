@@ -1,2 +1,2 @@
-# Dashpress-02
-Dashpress-02 - Pertence ao desafio 02.
+# Dashpress-01
+Dashpress-01 - Pertence ao desafio 01 dispositivos moveis
