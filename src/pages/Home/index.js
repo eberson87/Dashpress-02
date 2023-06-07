@@ -11,7 +11,7 @@ function Home ({navigation}) {
     }
     return (
         <View>
-            <Text>Tela de Cadastro</Text>
+            <Text>Tela Inicial</Text>
             <Button 
             title="Iniciar Cadastro"
             onPress={() => navigation.navigate('Details', {nome:"Fulano", idade:21})}
