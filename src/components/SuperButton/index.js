@@ -6,7 +6,7 @@ const SuperButton = (props) => {
         <TouchableHighlight 
         style={style.superButton}
         onPress={ props.callback }
-        // onPress={() => Alert.alert("Bem vindo! Tela de Login")}
+        
         >
             <View style={style.button}>
                 <Text style={style.valor}>{props.valor}</Text>

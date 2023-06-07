@@ -8,6 +8,7 @@ export default function AppRoutes(){
     return (
         <AppStack.Navigator initialRouteName="Home">
             <AppStack.Screen name="Home" component={Home} options={{}}></AppStack.Screen>
+           
         </AppStack.Navigator>
     );
 }
