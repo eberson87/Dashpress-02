@@ -13,9 +13,9 @@ function Home ({navigation}) {
         <View>
             <Text>Tela de Cadastro</Text>
             <Button 
-            title="Navegar para detalhes"
+            title="Iniciar Cadastro"
             onPress={() => navigation.navigate('Details', {nome:"Fulano", idade:21})}
-            
+        
             />
 
             <Button title="Logout"

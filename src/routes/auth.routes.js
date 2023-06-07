@@ -1,4 +1,3 @@
-// Arquivo que terá todas as rotas que não precisam de autenticação
 import React from "react";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 const AuthStack = createNativeStackNavigator();
